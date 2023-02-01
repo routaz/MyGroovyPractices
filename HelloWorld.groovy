@@ -1,3 +1,3 @@
 package com.groovypractice
 
-println 'Hello, World'
+println 'Hello, Groovy World'
